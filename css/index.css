@@ -1,0 +1,131 @@
+.tm-border{
+	border: 5px solid #fff;  
+	margin-top: -130px;
+}
+
+.solid{
+	border: 1px solid #000;
+	width: 300px;
+	margin-top: -5px;
+}
+
+body{
+	background-image: url("../img/bg2.jpg");
+	background-attachment: fixed;
+	font-family: 'Helvetica', sans-serif;
+}
+
+/* centered columns styles #003300; */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.prof{
+	height: 400px;
+}
+
+.whiteBack{
+	background-color: #fff;
+}
+
+.blackBack{
+	background-color: #000;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.shadow{
+	text-shadow: 1px 1px #000;
+}
+
+#devTitle{
+	margin-top: -5px;
+	font-size: 30px;
+}
+
+.sqrTitle{
+	font-size: 60px;
+	margin-left: 20px;
+}
+
+.sqrPar{
+	font-size: 15px;
+	margin: 15px 150px 50px 150px; 
+	text-indent: 80px;
+}
+
+.tm-title{
+	font-size: 70px;
+}
+
+.whiteFont{
+	color: #fff;
+}
+
+.blankTitle{
+	font-size: 60px;
+}
+
+.info{
+	margin-top: -7px;
+}
+
+.mc{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.mainSkill{
+	text-align: center;
+	margin: 0px 0px 10px 20px;
+}
+
+.skill{
+	padding: 5px;
+	text-align: center;
+	font-size: 25px;
+	display: inline-block;
+	background-color: #000;
+}
+
+h2{
+	text-align: center;
+	font-size: 45px;
+	/*color: #E5E500;*/
+	color: #fff;
+}
+
+.educ{
+	margin-top: 10px;
+}
+
+.icon{
+	margin-left: 30px;
+}
+.textRight{
+	text-align: right;
+}
+
+.footer{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.social{
+	margin-left: 2.5px;
+	margin-right: 2.5px;
+}
+
+
+
+
+
